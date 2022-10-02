@@ -25,4 +25,6 @@
         - [ ] it should test when the application throws an error
 
 
-## Have fun!
+## Run code
+```
+npm start
