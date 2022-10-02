@@ -1,0 +1,22 @@
+{
+  "name": "web-api",
+  "version": "1.0.0",
+  "description": "## Features Checklist + Challenges",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickWendel/complete-nodejs-webapi-without-frameworks-yt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickWendel/complete-nodejs-webapi-without-frameworks-yt/issues"
+  },
+  "homepage": "https://github.com/ErickWendel/complete-nodejs-webapi-without-frameworks-yt#readme"
+}
